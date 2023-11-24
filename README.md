@@ -11,8 +11,8 @@ I have been able to reverse engineer the design from the schematic of previous v
 WARNING: This design has not been tested yet. Use at your own risk!
 
 ![components](https://github.com/eduardocasino/sd-card-shield/blob/main/images/sd-card-shield.png?raw=true)
-![front](https://github.com/eduardocasino/sd-card-shield/blob/main/images/sd-card-shield.png?raw=true)
-![back](https://github.com/eduardocasino/sd-card-shield/blob/main/images/sd-card-shield.png?raw=true)
+![front](https://github.com/eduardocasino/sd-card-shield/blob/main/images/sd-card-shield-front.png?raw=true)
+![back](https://github.com/eduardocasino/sd-card-shield/blob/main/images/sd-card-shield-back.png?raw=true)
 
 
 ## Licensing
