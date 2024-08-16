@@ -2,9 +2,9 @@
 
 ## About
 
-This is a functionally equivalent recreation of the latest version of Corsham's [SD Card Shield](https://www.corshamtech.com/new-version-of-sd-card-shield/). Sadly, Bob Applegate, the man and soul behind Corsham Technologies, passed away earlier this year and [his shop is no longer in business](https://www.corshamtech.com/bad-news-and-the-future/).
+This is a functionally equivalent recreation of the latest version of Corsham's [SD Card Shield](https://www.corshamtech.com/new-version-of-sd-card-shield/). Sadly, Bob Applegate, the man and soul behind Corsham Technologies, passed away in 2023 and [his shop is no longer in business](https://www.corshamtech.com/bad-news-and-the-future/).
 
-Bob put a lot of his work under open source licenses or in the public domain, and also shared the schematics of his boards in the spirit of the emerging personal computer industry of the late 1970s. However, this information was not always complete or up to date, and never published the files to physically reproduce his PCBs (logically, as this was also a business to him) and now that boards are not available anymore.  
+Bob put a lot of his work under open source licenses or in the public domain, and also shared the schematics of his boards in the spirit of the emerging personal computer industry of the late 1970s. However, this information was not always complete or up to date, and never published the files to physically reproduce his PCBs (logically, as this was also a business to him) and now those boards are not available anymore.
 
 I have been able to reverse engineer the design from the schematic of previous versions, which is available, and from photos of revisions 6 and 9.
 
