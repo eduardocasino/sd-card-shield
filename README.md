@@ -8,7 +8,9 @@ Bob put a lot of his work under open source licenses or in the public domain, an
 
 I have been able to reverse engineer the design from the schematic of previous versions, which is available, and from photos of revisions 6 and 9.
 
-WARNING: This design has not been tested yet. Use at your own risk!
+~~WARNING: This design has not been tested yet. Use at your own risk!~~
+
+The board has been tested working with a KIM-1 and Corsham's xKIM monitor but, still, use at your own risk!
 
 ![components](https://github.com/eduardocasino/sd-card-shield/blob/main/images/sd-card-shield.png?raw=true)
 ![front](https://github.com/eduardocasino/sd-card-shield/blob/main/images/sd-card-shield-front.png?raw=true)
